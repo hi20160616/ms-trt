@@ -1,0 +1,13 @@
+{
+  "dbpath":"db",
+  "microservice":{
+    "title":"trt",
+    "domain":"www.trt.net.tr",
+    "url":[
+      "https://www.trt.net.tr/chinese/"
+    ],
+    "addr":":20019",
+    "timeout":"1s",
+    "heartbeat":"5m"
+  }
+}
